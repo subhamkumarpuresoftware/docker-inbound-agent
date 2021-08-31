@@ -108,4 +108,4 @@ pipeline {
 
 }
 
-// vim: ft=groovy
+// vim: ft=groov
